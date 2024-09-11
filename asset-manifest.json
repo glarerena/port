@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/port/static/css/main.b4b641ec.css",
-    "main.js": "/port/static/js/main.cbd79f55.js",
-    "static/media/rena.jpg": "/port/static/media/rena.50275287036154010a14.jpg",
-    "static/media/dice_game.png": "/port/static/media/dice_game.c6001d4082d4a381e837.png",
-    "static/media/drum_kit.png": "/port/static/media/drum_kit.0c8d9058ee3cada17f86.png",
-    "static/media/color_flipper.png": "/port/static/media/color_flipper.b1c4a616ba1f527adf0e.png",
-    "static/media/simon_says.png": "/port/static/media/simon_says.9c185e7d6dfa6fddd274.png",
-    "static/media/roman_converter.png": "/port/static/media/roman_converter.8c303351dfbfaf42efc8.png",
-    "static/media/mondrian.png": "/port/static/media/mondrian.acc3d7eccfd4f8d64998.png",
-    "index.html": "/port/index.html"
+    "main.css": "/static/css/main.b4b641ec.css",
+    "main.js": "/static/js/main.06c8ebe3.js",
+    "static/media/rena.jpg": "/static/media/rena.50275287036154010a14.jpg",
+    "static/media/dice_game.png": "/static/media/dice_game.c6001d4082d4a381e837.png",
+    "static/media/drum_kit.png": "/static/media/drum_kit.0c8d9058ee3cada17f86.png",
+    "static/media/color_flipper.png": "/static/media/color_flipper.b1c4a616ba1f527adf0e.png",
+    "static/media/simon_says.png": "/static/media/simon_says.9c185e7d6dfa6fddd274.png",
+    "static/media/roman_converter.png": "/static/media/roman_converter.8c303351dfbfaf42efc8.png",
+    "static/media/mondrian.png": "/static/media/mondrian.acc3d7eccfd4f8d64998.png",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.b4b641ec.css",
-    "static/js/main.cbd79f55.js"
+    "static/js/main.06c8ebe3.js"
   ]
 }
