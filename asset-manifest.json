@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eef2c020.css",
-    "main.js": "/static/js/main.0f6ba508.js",
+    "main.js": "/static/js/main.5aa4133a.js",
     "static/media/rena.jpg": "/static/media/rena.50275287036154010a14.jpg",
     "static/media/dice_game.png": "/static/media/dice_game.c6001d4082d4a381e837.png",
     "static/media/drum_kit.png": "/static/media/drum_kit.0c8d9058ee3cada17f86.png",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.eef2c020.css",
-    "static/js/main.0f6ba508.js"
+    "static/js/main.5aa4133a.js"
   ]
 }
